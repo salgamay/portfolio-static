@@ -1,0 +1,33 @@
+nav {
+    background-color: hsla(234, 26%, 93%, 0.808);
+    color: black;
+    padding: 20px;
+    margin-bottom:2px;
+}
+
+.intro {
+    background-color: gainsboro;
+    border-color: whitesmoke;
+    padding: 20px;
+}
+
+.middle {
+    background-color: hsla(234, 26%, 93%, 0.808);
+    border-color: whitesmoke;
+    padding: 10px;
+}
+
+.card {
+    padding: 10px;
+    border: rgb(221, 221, 235);
+}
+
+.paragraph {
+    padding: 20px;
+    padding-right: 1%;
+    padding-bottom: 1%;
+}
+.image {
+    width: 30px;
+    padding-left: 1%;
+}
